@@ -19,4 +19,6 @@ have demonstrated the effectiveness of integrating mathematical methods for medi
 enhancement and classification, as well as effective tumor diagnosis.
 
 ## Overview
-![Flow Chart]()
+<div align=center>
+<img src="https://github.com/JoJoeHu/Optimization-System-for-Tumor-Detection/blob/main/overview.png" width="800px">
+
